@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mario Tolentino
+    family-names: Cipriano Camacho
+    email: l20211961@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de Mexico
+repository-code: >-
+  https://github.com/MarioCipriano423/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-20211961-Cipriano
+abstract: |-
+  Tecnologico Nacional de México 
+  Instituto Tecnologico de Tijuana
+  Ingeniería Biomédica 
+  Gemelos Digitales
+  Práctica 1- Leyes de crecimiento exponencial
+keywords:
+  - Ley de crecimiento exponencial
+  - Metodo de Haun
+  - Nanohidrogeles
+  - 'Tasas de liberación de fármaco '
+  - 'Farmacocinética '
+  - Protocolo basado en modelos
+license: BSD-2-Clause
+date-released: '2025-02-20'
